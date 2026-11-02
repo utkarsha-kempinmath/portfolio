@@ -37,7 +37,7 @@ export const projects = [
       {
         heading: "What I Built",
         paragraphs: [
-          "As solo founder and full-stack engineer, I architected the cross-platform React Native client and the underlying modular Node.js/Express micro-services. Features include zero-friction expense logging, adaptive budget envelopes, and behavioral analytics pipelines.",
+          "As a founder and full-stack engineer, I architected the cross-platform React Native client and the underlying modular Node.js/Express micro-services. Features include zero-friction expense logging, adaptive budget envelopes, and behavioral analytics pipelines.",
           "I implemented secure Google OAuth 2.0 authentication, real-time sync with MongoDB, and an offline-first cache so transactions can be recorded without active internet access.",
         ],
       },
