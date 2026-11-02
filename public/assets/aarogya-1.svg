@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <rect width="800" height="500" fill="#2A1B14"/>
+  <rect x="1" y="1" width="798" height="498" rx="6" fill="none" stroke="#3A2A20" stroke-width="1"/>
+  
+  <!-- App Mockup Frame -->
+  <rect x="40" y="40" width="720" height="420" rx="4" fill="#1E140F" stroke="#3A2A20" stroke-width="1"/>
+  
+  <!-- Header bar inside mockup -->
+  <line x1="40" y1="90" x2="760" y2="90" stroke="#3A2A20" stroke-width="1"/>
+  <circle cx="65" cy="65" r="4" fill="#3A2A20"/>
+  <circle cx="80" cy="65" r="4" fill="#3A2A20"/>
+  <circle cx="95" cy="65" r="4" fill="#3A2A20"/>
+  <text x="400" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#B9A794" letter-spacing="1" text-anchor="middle">MIT INDIA HACKATHON TOP 5</text>
+  
+  <!-- Content inside mockup -->
+  <text x="400" y="210" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#F6F0E7" text-anchor="middle">Aarogya Seva Portal</text>
+  <text x="400" y="250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#B9A794" text-anchor="middle">Rural Geolocation Map & Outbreak Containment Zones</text>
+  
+  <!-- Decorative clean wireframe UI elements -->
+  <rect x="120" y="290" width="176.66666666666666" height="80" rx="3" fill="#2A1B14" stroke="#3A2A20" stroke-width="1"/>
+  <rect x="311.66666666666663" y="290" width="176.66666666666666" height="80" rx="3" fill="#2A1B14" stroke="#3A2A20" stroke-width="1"/>
+  <rect x="503.3333333333333" y="290" width="176.66666666666666" height="80" rx="3" fill="#2A1B14" stroke="#3A2A20" stroke-width="1"/>
+  
+  <text x="213.33333333333331" y="336" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#C98A4B" text-anchor="middle">ACTIVE TELEMETRY</text>
+  <text x="404.99999999999994" y="336" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#C98A4B" text-anchor="middle">API SYNC 200 OK</text>
+  <text x="596.6666666666666" y="336" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#C98A4B" text-anchor="middle">REACT NATIVE</text>
+</svg>

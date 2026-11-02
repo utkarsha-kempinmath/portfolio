@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Full-bleed background completely filling the project card -->
+  <rect width="512" height="512" fill="#131926" />
+
+  <!-- Meditating Figure -->
+  <g id="meditation-figure">
+    <!-- 5 Radiating Sun / Awakening Rays in MindBuddy Coral -->
+    <line x1="168" y1="184" x2="194" y2="184" stroke="#FF5353" stroke-width="15" stroke-linecap="round" />
+    <line x1="194" y1="122" x2="212" y2="140" stroke="#FF5353" stroke-width="15" stroke-linecap="round" />
+    <line x1="256" y1="96" x2="256" y2="122" stroke="#FF5353" stroke-width="15" stroke-linecap="round" />
+    <line x1="318" y1="122" x2="300" y2="140" stroke="#FF5353" stroke-width="15" stroke-linecap="round" />
+    <line x1="344" y1="184" x2="318" y2="184" stroke="#FF5353" stroke-width="15" stroke-linecap="round" />
+
+    <!-- Circular Mind Head -->
+    <circle cx="256" cy="184" r="34" fill="none" stroke="#F6F0E7" stroke-width="15" />
+
+    <!-- Shoulders, Upper Arms & Mudra Hands (Continuous Smooth Symmetrical Stroke) -->
+    <path d="M 158 270
+             C 158 296 174 308 190 308
+             C 206 308 216 284 222 256
+             C 228 234 238 230 256 248
+             C 274 230 284 234 290 256
+             C 296 284 306 308 322 308
+             C 338 308 354 296 354 270"
+          fill="none" stroke="#F6F0E7" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Torso Sides (Gentle Contour Inward to Waist) -->
+    <path d="M 226 274 C 226 294 230 312 236 330" fill="none" stroke="#F6F0E7" stroke-width="14" stroke-linecap="round" />
+    <path d="M 286 274 C 286 294 282 312 276 330" fill="none" stroke="#F6F0E7" stroke-width="14" stroke-linecap="round" />
+
+    <!-- Crossed Legs in Full Lotus (Balanced Flowing Infinity Ribbon) -->
+    <path d="M 256 352
+             C 220 352 164 340 146 364
+             C 128 388 162 410 220 398
+             C 246 392 256 370 256 352
+             C 256 370 266 392 292 398
+             C 350 410 384 388 366 364
+             C 348 340 292 352 256 352 Z"
+          fill="none" stroke="#F6F0E7" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
